@@ -1,0 +1,2 @@
+class AddProfileImageIdToUser < ApplicationRecord
+end
